@@ -2,23 +2,23 @@
 
 <h1><a href="https://Planet-Makers-Original.github.io/projects">Projects</a></h1>
 
-<a href="https://github.com/2KAbhishek/projects/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/projects?style=flat&color=eee&label="> </a>
+<a href="https://github.com/Planet-Makers-Original/projects/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/Planet-Makers-Original/projects?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/projects/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/projects?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/Planet-Makers-Original/projects/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/Planet-Makers-Original/projects?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/projects?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/Planet-Makers-Original/projects/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/Planet-Makers-Original/projects?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/projects/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/projects?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/Planet-Makers-Original/projects/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/Planet-Makers-Original/projects?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/projects?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/Planet-Makers-Original/projects/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/Planet-Makers-Original/projects?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/projects/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/projects?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/Planet-Makers-Original/projects/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/Planet-Makers-Original/projects?style=flat&color=e06c75&label="> </a>
 
 <h3>Showcase All Your Projects 🛍️🎇</h3>
 
@@ -46,7 +46,7 @@ Needed a way to display all my projects, that should auto update from GitHub
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
+git clone https://github.com/Planet-Makers-Original/projects
 cd projects
 ```
 
@@ -115,6 +115,6 @@ Hit the ⭐ button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/projects">Source</a> | <a href="https://2kabhishek.github.io/projects">Website</a>
+<a href="https://github.com/Planet-Makers-Original/projects">Source</a> | <a href="https://Planet-Makers-Original/projects">Website</a>
 
 </div>
