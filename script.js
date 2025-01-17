@@ -1,4 +1,4 @@
-const username = '2KAbhishek';
+const username = 'Planet-Makers-Original';
 const maxPages = 3;
 const hideForks = true;
 const repoList = document.querySelector('.repo-list');
