@@ -5,7 +5,7 @@ Certifique-se de ter Python instalado. Em seguida, crie um ambiente virtual e in
 
 `bash`
 
-<p> git clone https://github.com/Planet-Makers-Original/My-Portal.git</p>
+<p> git clone https://github.com/Planet-Makers-Original/Potal_emeca.git</p>
 <p> cd your-repo</p>
 
 # Criar ambiente virtual
@@ -58,4 +58,4 @@ Certifique-se de ter Python instalado. Em seguida, crie um ambiente virtual e in
 ### Créditos:
 
 - Autor: `Alexande Yuri`
-- Data de criação: `29/01/2025`
+- Data de criação: `07/02/2025`
